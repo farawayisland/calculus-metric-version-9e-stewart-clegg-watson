@@ -1,0 +1,15 @@
+# ~/Projects/Note-Taking/Non-Fiction/Textbooks/calculus-metric-version-9e-stewart-clegg-watson
+# /en/01-functions/exercise-01/org/exercise-01.org
+
+#+LATEX_CLASS: scrbook-org
+\begin{enumerate}
+\item Let \(f\) be the function whose graph is given
+\begin{enumerate}
+  \item Estimate the value of \(f(2)\).
+  \item Estimate the values of \(x\) such that \(f(x) = 3\).
+  \item State the domain of \(f\).
+  \item State the range of \(f\).
+  \item On what interval is \(f\) increasing?
+  \item Is \(f\) even, odd, or neither even nor odd? Explain
+\begin{enumerate}
+\end{enumerate}
